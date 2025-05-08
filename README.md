@@ -32,6 +32,9 @@ Use Interfaces for defining object shapes, especially if you need to extend or m
 Use Types for complex combinations or when you need more flexibility.
 
 Conclusion
+
+
+
 Union Types: Pick one type from many options.
 
 Intersection Types: Combine multiple types into one.
